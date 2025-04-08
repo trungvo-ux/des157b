@@ -1,83 +1,97 @@
-h1{
-    font-family: "Inter", sans-serif;    font-weight: 600;
-    font-size: 10rem;
-    font-kerning:unset;
-}
+body {
+    background: white;
+    color: black;
+    transition: background 0.3s, color 0.3s;
+    font-family: "Inter", sans-serif;
+  }
+  
+  body.dark {
+    background: #121212;
+    color: #f5f5f5;
+    font-family: "Times New Roman", serif;
 
-.trung-vo {
+  }
+  
+  h1 {
+    font-size: 5rem;
+    margin: 0;
+  }
+  .spline-container {
     position: relative;
-    letter-spacing: -0.03em;
-}
-.trung-vo-parent {
-    width: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: flex-start;
-    gap: 10px;
-}
-.frame-child {
-    flex: 1;
-    height: 128px;
-}
-.ministudio-toolkit {
-    align-self: stretch;
-    position: relative;
-    letter-spacing: -0.03em;
-    font-weight: 600;
-}
-.ministudio-toolkit-parent {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: flex-start;
-    gap: 4px;
-    font-size: 24px;
-}
-.frame-parent {
-    width: 100%;
-    position: relative;
-    height: 960px;
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    align-content: flex-start;
-    padding: 10px;
-    box-sizing: border-box;
-    gap: 10px;
-    text-align: left;
-    font-size: 148px;
-    color: #000;
-    font-family: Inter;
-}
-
-
-
-
-.main-div{
-    padding: 10px;
-    position: fixed;
-    padding-top: 10px;
-
-}
-
-.list-div{
-    position: flex;
-}
-
-.main-div, li{
-    font-weight: 400;
-    font-style: normal;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-.keyboard-div{
     visibility: hidden;
+    width: 100%;
+    height: 600px;
+  }
+  
+  .spline-embed {
     position: absolute;
-    top:80px;
-}
-
-
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    transition: opacity 0.5s ease;
+    pointer-events: auto;
+  }
+  
+  .spline-embed.hidden {
+    opacity: 0;
+    pointer-events: none;
+  }
+  
+  
+  .theme-switch {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 26px;
+    margin-bottom: 20px;
+  }
+  
+  .theme-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    border-radius: 34px;
+    transition: 0.4s;
+  }
+  
+  .slider::before {
+    content: "";
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    border-radius: 50%;
+    transition: 0.4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #4caf50;
+  }
+  
+  input:checked + .slider::before {
+    transform: translateX(24px);
+  }
+  
+  .frame-parent {
+    padding: 20px;
+  }
+  
+  .trung-vo,
+  .ministudio-toolkit {
+    transition: color 0.3s;
+  }
+  

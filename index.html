@@ -1,36 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dark Mode Test</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div style="width: 100%; height: 100%; padding: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex; flex-wrap: wrap; align-content: flex-start">
-        <div style="width: 1419px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
-            <div style="color: black; font-size: 148px; font-family: Inter; font-weight: 650; word-wrap: break-word">Trung Vo</div>
-            <div style="color: black; font-size: 148px; font-family: Inter; font-weight: 650; word-wrap: break-word">Interactive Media</div>
-            <div style="color: black; font-size: 148px; font-family: Inter; font-weight: 650; word-wrap: break-word">157b</div>
-        </div>
-        <div style="flex: 1 1 0; height: 128px"></div>
-        <div style="flex: 1 1 0; height: 128px"></div>
-        <div style="flex: 1 1 0; height: 128px"></div>
-        <div style="flex: 1 1 0; height: 128px"></div>
-        <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-            <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 600; word-wrap: break-word">ministudio & toolkit</div>
-            <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 600; word-wrap: break-word">research</div>
-            <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 600; word-wrap: break-word">development</div>
-            <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 600; word-wrap: break-word">capstone</div>
-        </div>
-        <div style="flex: 1 1 0; height: 128px"></div>
-    </div> <div class="keyboard-div">
-    <embed>
-        <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.82/build/spline-viewer.js"></script>
-        <spline-viewer url="https://prod.spline.design/I6SNY7Mc9Ck8zdti/scene.splinecode"></spline-viewer>
+  <div class="frame-parent">
+    <div class="trung-vo-parent">
+      <label class="theme-switch">
+        <input type="checkbox" id="themeToggle" />
+        <span class="slider"></span>
+      </label>
+      <h1 class="trung-vo">Trung Vo</h1>
     </div>
+
+    <div class="ministudio-toolkit-parent">
+      <div class="ministudio-toolkit">ministudio & toolkit</div>
+      <div class="ministudio-toolkit">research</div>
+      <div class="ministudio-toolkit">development</div>
+      <div class="ministudio-toolkit">capstone</div>
+    </div>
+  </div>
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.82/build/spline-viewer.js"></script>
+
+<div class="spline-container">
+  <div id="spline-light" class="spline-embed">
+    <spline-viewer url="https://prod.spline.design/I6SNY7Mc9Ck8zdti/scene.splinecode"></spline-viewer>
+  </div>
+
+  <div id="spline-dark" class="spline-embed hidden">
+    <spline-viewer url="https://prod.spline.design/EpMv9OtDihijZsLi/scene.splinecode"></spline-viewer>  </div>
+</div>
+
+      
+  <script src="script.js"></script>
 </body>
 </html>
