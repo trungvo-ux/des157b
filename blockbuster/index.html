@@ -1,0 +1,29 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Video Poem</title>
+      <link rel="stylesheet" href="stylesheet.css" />
+      <script src="script.js" defer></script>
+    </head>
+    <body onload="hideLoader()">      <div class="loader">
+        <img src="icon.png" alt="loader" />
+      </div>
+      
+      <section id="poem">
+        <p id="line1" class="hidden">Underneath the bridge, tarp has sprung a leak</p>
+        <p id="line2" class="hidden">And the animals I've trapped have all become my pets</p>
+        <p id="line3" class="hidden">And I'm living off of grass, and the drippings from my ceiling</p>
+      </section>
+
+      <img src="icon.png" alt="loader" class="icon" />
+
+      <video id="myVideo" muted autoplay loop playsinline preload="auto">
+        <source src="koi.mp4" type="video/mp4" />
+        <source src="koi.webm" type="video/webm" />
+        <p>Your browser doesn't support HTML5 video.</p>
+      </video>
+    
+    </body>
+    </html>

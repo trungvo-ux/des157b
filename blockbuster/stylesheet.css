@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    background: black;
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+  
+  #myVideo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+  }
+  
+  .loader {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    opacity: 1;
+    transition: opacity 1s ease-in-out;
+  }
+  
+  .loader.fade-out {
+    opacity: 0;
+  }
+  
+  #poem p {
+    position: absolute;
+    left: 40%;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    transition: all 2.5s;
+    font-size: 20px;
+    border-radius: 20px;
+  }
+  
+  #line1 { bottom: 20%; }
+  #line2 { bottom: 10%; }
+  #line3 { bottom: 0%; }
+  
+  .hidden { opacity: 0; }
+  .showing { opacity: 1; }
+
+.icon{
+  position: fixed;
+  bottom: 5%;
+  left: 5%;
+  height: 20px;
+  padding: 20px;
+  background-color: black;
+  border-radius: 100px;
+}
+
+.icon:hover{
+ height: 30px;
+ background-color: rgb(0, 0, 0);
+ transition: 1s ease-in-out;
+}
