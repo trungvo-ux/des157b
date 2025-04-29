@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Day in the Life of Trung</title>
+
+  <link rel="stylesheet" href="stylesheet.css" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1"></script>
+</head>
+<body>
+<section>
+
+  <header class="starting-header">
+    <h1>Day in the Life of Trung</h1>
+  <a href="https://trungvo.tech"class=" btn-intro">Check my Portfolio</a>
+  </header>
+
+  <nav class="tabs-divs">
+    <ul class="tabs">
+      <li><button class="graph-btn active" data-target="coffee">Coffee</button></li>
+      <li><button class="graph-btn" data-target="work">Homework</button></li>
+      <li><button class="graph-btn" data-target="sleep">Sleep</button></li>
+      <li><button class="graph-btn" data-target="music">Music</button></li>
+      <li><button class="graph-btn" data-target="gym">Gym</button></li>
+      <li><button class="graph-btn" data-target="phone">Phone</button></li>
+      <li><button class="graph-btn" data-target="jobs">Job</button></li>
+      <li><button class="graph-btn" data-target="club">Club</button></li>
+
+    </ul>
+  </nav>
+
+  <div class="chart">
+    <div class="chart-div">
+      <div class="chart-title">
+        <p>Day in the life:</p>
+        <h2 id="chartLabel" class="title">Title</h2>
+      </div>
+      <canvas class="chart-graph" id="myChart" width="600" height="400"></canvas>
+    </div>
+  </div>
+</section>
+
+<script>
+  var UNIT = {
+    coffee:'cups', sleep:'hours', music:'hours', work:'hours',
+    gym:'hours', phone:'hours', jobs:'hours', club:'hours'
+  };
+  
+  function cap(w){ return w[0].toUpperCase()+w.slice(1); }
+  
+  function makeSet(name,list){
+    var u = UNIT[name] ? ' ('+UNIT[name]+')' : '';
+    return { label: cap(name)+u, data:list, backgroundColor:'#0070f3' };
+  }
+  
+  var ctx    = document.getElementById('myChart');
+  var label  = document.getElementById('chartLabel');
+  var tabs   = document.querySelectorAll('.graph-btn');
+  var chart;
+  
+  function resize(){
+    label.style.fontSize = label.textContent.length>20? '12px':'14px';
+  }
+  
+  fetch('data.json')
+  .then(function(r){ return r.json(); })
+  .then(function(d){
+    chart = new Chart(ctx,{ type:'bar',
+      data:{ labels:d.labels, datasets:[ makeSet('coffee',d.coffee) ] }
+    });
+    label.textContent = chart.data.datasets[0].label;
+    resize();
+    for(var i=0;i<tabs.length;i++){
+      tabs[i].onclick = function(){
+        for(var j=0;j<tabs.length;j++) tabs[j].classList.remove('active');
+        this.classList.add('active');
+        var key = this.getAttribute('data-target');
+        chart.data.datasets[0] = makeSet(key,d[key]);
+        chart.update();
+        label.textContent = chart.data.datasets[0].label;
+        resize();
+      };
+    }
+  });
+  </script>
+  </script>
+</body>
+</html>

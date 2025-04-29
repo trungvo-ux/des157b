@@ -1,0 +1,135 @@
+*{box-sizing:border-box}
+
+body{
+  font-family:"Geist",sans-serif;
+  background-color:#fafafa;
+  min-height:100vh;
+  font-kerning:auto;
+  font-weight:500
+}
+
+section{
+  max-width:1200px;
+  margin:0 auto
+}
+
+.starting-header{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  height:200px;
+  background-color:#fff;
+  border:1px solid #e8e8e8;
+  border-bottom:0
+}
+
+h1{
+  font-size:48px;
+  font-kerning:none;
+  font-weight:500
+}
+
+.title{font-weight:500}
+
+.tabs{
+  display:flex;
+  list-style:none;
+  margin:0;
+  padding:0
+}
+
+.tabs li{border-bottom:1px solid #fff}
+
+.tabs li:active::after{border-bottom:1px solid #000}
+
+.graph-btn.active{
+  color:#000;
+  font-weight:500
+}
+
+.graph-btn{
+  width:100px;
+  height:50px;
+  font:500 14px "Geist",sans-serif;
+  background-color:#fff;
+  border:none;
+  border-radius:4px;
+  cursor:pointer;
+  color:#a5a5a5
+}
+
+@keyframes underline-in{
+  from{transform:scaleX(.2);opacity:0}
+  to{transform:scaleX(1);opacity:1}
+}
+
+.graph-btn:hover{background:#f1f1f1;transition:.2s ease-in-out}
+
+.graph-btn.active::after{
+  content:"";
+  position:absolute;
+  left:0;
+  right:0;
+  bottom:0;
+  height:2px;
+  background:#000;
+  border-radius:1px;
+  transform-origin:left;
+  animation:underline-in .25s ease-out forwards
+}
+
+.tabs-divs{
+  display:flex;
+  background-color:#fff;
+  border:1px solid #e8e8e8;
+  border-top:0;
+  margin:0;
+  justify-content:center
+}
+
+.chart{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  height:700px;
+  background-color:#fafafa;
+  border:1px solid #e8e8e8;
+  border-top:0
+}
+
+.chart-div{
+  background-color:#fff;
+  border-radius:4px;
+  border:1px solid #e8e8e8;
+  width:fit-content
+}
+
+.chart-title{
+  padding:10px 20px;
+  border-bottom:1px solid #e8e8e8
+}
+
+.chart-graph{padding:20px}
+
+.p1{font-weight:500}
+
+.btn-intro{
+  border:#000;
+  padding:16px;
+  border-radius:100px;
+  color:#fff;
+  background:#000;
+  font-family:Geist,sans-serif;
+  text-decoration:none;
+  font-size:14px
+}
+
+.btn-intro:hover{
+  border:#000;
+  background-color:#fff;
+  color:#000;
+  transition:all .2s;
+  animation:.2s ease-out
+}
