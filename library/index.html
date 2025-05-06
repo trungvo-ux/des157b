@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/themes/light.css" />
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/shoelace-autoloader.js"></script>
+    <link href="stylesheet.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Geist:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>    
+    <title>Library</title>
+</head>
+<body>
+    <div class="main">
+        <div class="nav">
+            <div>
+                <sl-menu style="max-width: 100%; padding: 10px;">
+                    <div class="title">
+                        <h1> Welcome to Davis</h1>
+                    </div>
+                    <sl-button id="ucd-btn" variant="default" style="width: 100%; margin-bottom: 8px;">The UC Davis Campus</sl-button>
+                     <sl-button id="north-btn" variant="default" style="width: 100%; margin-bottom: 8px;">North Davis</sl-button>
+                    <sl-button id="downtown-btn" variant="default" style="width: 100%; margin-bottom: 8px;">Downtown</sl-button>
+                    <sl-button id="south-btn" variant="default" style="width: 100%; margin-bottom: 8px;">South</sl-button>
+                    <sl-button id="aggie-btn" variant="default" style="width: 100%; margin-bottom: 8px;">Aggie Square</sl-button>
+
+                  </sl-menu>
+                  <div class="foot">
+                    <p> Created by Trung Vo</p>
+                    <p> Powered by Shoelace & Mapbox API</p>
+                </div>
+            </div>
+        </div>
+        <div class="body-map">
+            <div id="map" class="map"></div>
+        </div>
+        
+    </div>
+</body>
+<script src="script.js" defer></script>
+</html>
