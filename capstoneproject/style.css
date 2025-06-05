@@ -1,0 +1,265 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Helvetica Neue', sans-serif;
+  background: #f0f0f0;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 0;
+}
+
+.top-search {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 420px;
+  z-index: 10;
+  backdrop-filter: blur(8px);
+}
+
+.top-search input {
+  width: 100%;
+  padding: 14px 18px;
+  border-radius: 8px;
+  font-size: 15px;
+  border: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.95);
+}
+
+.sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.454);
+  backdrop-filter: blur(18px);
+  box-shadow: 2px 0 10px rgba(0,0,0,0.08);
+  padding: 16px;
+  overflow-y: auto;
+  z-index: 9;
+  transform: translateX(-100%);
+  transition: transform 0.4s ease-in-out;
+}
+
+.sidebar:not(.hidden) {
+  transform: translateX(0%);
+}
+
+.sidebar-header {
+  margin-bottom: 20px;
+}
+
+.sidebar-header h2 {
+  font-size: 20px;
+  margin: 0 0 10px;
+  font-weight: 600;
+}
+
+.tabs {
+  display: flex;
+  gap: 6px;
+}
+
+.tab {
+  flex: 1;
+  padding: 8px;
+  font-size: 13px;
+  border: none;
+  border-radius: 8px;
+  background: #eee;
+  cursor: pointer;
+}
+
+.tab.active {
+  background: #111;
+  color: white;
+}
+
+.user-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.2s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.user-info strong {
+  font-size: 15px;
+}
+
+.user-info small {
+  font-size: 13px;
+  color: #666;
+}
+
+.user-score {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  font-weight: 600;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f3f3f3;
+  border: 2px solid #999;
+}
+
+.card.low .user-score {
+  border-color: #F44336;
+}
+
+.card.medium .user-score {
+  border-color: #FFC107;
+}
+
+.card.high .user-score {
+  border-color: #4CAF50;
+}
+
+.user-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.card {
+  border-radius: 14px;
+  padding: 12px 12px 12px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.2s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.01);
+  background-color: #efefefc9;
+}
+
+.card-content {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.avatar {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  background-color: #ccc;
+  background-size: cover;
+  background-position: center;
+  flex-shrink: 0;
+}
+
+.user-text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.user-text strong {
+  font-size: 15px;
+  color: #222;
+}
+
+.user-text small {
+  font-size: 13px;
+  color: #666;
+}
+
+.rating {
+  font-size: 13px;
+  text-align: center;
+}
+
+.rating-circle {
+  margin-top: 4px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #eee;
+  border: 2px solid #999;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card.low .rating-circle {
+  border-color: #F44336;
+}
+.card.medium .rating-circle {
+  border-color: #FFC107;
+}
+.card.high .rating-circle {
+  border-color: #4CAF50;
+}
+
+.sidebar {
+  position: absolute;
+  top: 100px;
+  left: 40px;
+  width: 360px;
+  max-height: 85vh;
+  background: rgba(255, 255, 255, 0.80);
+  backdrop-filter: blur(18px);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+  padding: 24px;
+  overflow-y: auto;
+  z-index: 9;
+  transform: translateX(-120%);
+  transition: transform 0.4s ease-in-out;
+}
+
+.sidebar:not(.hidden) {
+  transform: translateX(0%);
+}
+
+.top-search {
+  position: absolute;
+  top: 20px;
+  left: 15.5%;
+  transform: translateX(-50%);
+  width: 360px;
+  z-index: 10;
+  backdrop-filter: blur(8px);
+}
+
+.top-search input {
+  width: 100%;
+  padding: 14px 18px;
+  border-radius: 14px;
+  font-size: 15px;
+  border: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.95);
+}

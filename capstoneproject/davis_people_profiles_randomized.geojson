@@ -1,0 +1,1005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chris Singh",
+        "address": "F St",
+        "social_rating": 71,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=250836",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75979841669502,
+          38.559429467539886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alex Chen",
+        "address": "Arlington Blvd",
+        "social_rating": 93,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=170238",
+        "employment": "Unemployed",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75819817015619,
+          38.54008278469059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Zhao",
+        "address": "F St",
+        "social_rating": 52,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=984888",
+        "employment": "Library Assistant",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74627343017288,
+          38.55278162252012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riley Kim",
+        "address": "Russell Blvd",
+        "social_rating": 74,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=687554",
+        "employment": "Intern",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74310010147096,
+          38.54633030329542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "D St",
+        "social_rating": 51,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=180646",
+        "employment": "Library Assistant",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74419691172555,
+          38.55889667790024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "D St",
+        "social_rating": 63,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=168476",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7473138785892,
+          38.540795458223954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alex Chen",
+        "address": "East Covell Blvd",
+        "social_rating": 55,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=859265",
+        "employment": "Unemployed",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7595009784996,
+          38.55474010639047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "Russell Blvd",
+        "social_rating": 94,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=737925",
+        "employment": "Student",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75263129365108,
+          38.55120918748706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chris Singh",
+        "address": "West Village, UC Davis",
+        "social_rating": 56,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=794389",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74106537047412,
+          38.541181604389664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "F St",
+        "social_rating": 57,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=251232",
+        "employment": "Library Assistant",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74233738317803,
+          38.551905345699744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "Russell Blvd",
+        "social_rating": 50,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=519881",
+        "employment": "Student",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74485032717833,
+          38.554863958679405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "D St",
+        "social_rating": 56,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=338929",
+        "employment": "Unemployed",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74687754244982,
+          38.5492631623143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "Arlington Blvd",
+        "social_rating": 58,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=221243",
+        "employment": "Retail Staff",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75093868395628,
+          38.54515257142286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riley Kim",
+        "address": "Russell Blvd",
+        "social_rating": 77,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=971249",
+        "employment": "Retail Staff",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74647486608868,
+          38.553180282760756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "D St",
+        "social_rating": 87,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=381980",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74078756672986,
+          38.54317771645908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Zhao",
+        "address": "Olive Dr",
+        "social_rating": 99,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=281678",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75259867267448,
+          38.546726280815726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riley Kim",
+        "address": "D St",
+        "social_rating": 50,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=471574",
+        "employment": "Intern",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75604996075157,
+          38.54561948260775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riley Kim",
+        "address": "West Village, UC Davis",
+        "social_rating": 74,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=239000",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74938719292949,
+          38.54266768730981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alex Chen",
+        "address": "East Covell Blvd",
+        "social_rating": 97,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=961741",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74601418757298,
+          38.558176359384674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamie Lee",
+        "address": "Anderson Rd",
+        "social_rating": 77,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=368699",
+        "employment": "Intern",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74641123426198,
+          38.555474264410066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "Olive Dr",
+        "social_rating": 82,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=838238",
+        "employment": "Intern",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7408119288751,
+          38.55179960399004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jordan Patel",
+        "address": "East Covell Blvd",
+        "social_rating": 68,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=166001",
+        "employment": "Retail Staff",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74502263313833,
+          38.557422516466254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jordan Patel",
+        "address": "F St",
+        "social_rating": 72,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=383937",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74496357837943,
+          38.54409646905822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jordan Patel",
+        "address": "D St",
+        "social_rating": 81,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=403299",
+        "employment": "Unemployed",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75412509446062,
+          38.55623069880759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Zhao",
+        "address": "Anderson Rd",
+        "social_rating": 80,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=912212",
+        "employment": "Intern",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75788494298857,
+          38.5561308540651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Zhao",
+        "address": "Arlington Blvd",
+        "social_rating": 54,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=604749",
+        "employment": "Retail Staff",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75939996133066,
+          38.5525804229005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "Anderson Rd",
+        "social_rating": 54,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=543358",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74133516557877,
+          38.55045304138659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "Anderson Rd",
+        "social_rating": 63,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=633809",
+        "employment": "Unemployed",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75654939878488,
+          38.558419141457634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riley Kim",
+        "address": "Arlington Blvd",
+        "social_rating": 55,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=105091",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75691546176245,
+          38.549486049006816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "East Covell Blvd",
+        "social_rating": 73,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=782680",
+        "employment": "Student",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74630397989021,
+          38.541505738354495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "Arlington Blvd",
+        "social_rating": 95,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=134991",
+        "employment": "Unemployed",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74517638398196,
+          38.54615755390218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alex Chen",
+        "address": "West Village, UC Davis",
+        "social_rating": 83,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=288187",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74296771573106,
+          38.54513224348164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chris Singh",
+        "address": "Anderson Rd",
+        "social_rating": 63,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=359010",
+        "employment": "Student",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74004601507397,
+          38.54903964357018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "West Village, UC Davis",
+        "social_rating": 59,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=817021",
+        "employment": "Intern",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74722326740665,
+          38.55578275482165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chris Singh",
+        "address": "Olive Dr",
+        "social_rating": 96,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=192424",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74521031047507,
+          38.5558417635707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chris Singh",
+        "address": "Anderson Rd",
+        "social_rating": 90,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=510056",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74886498169306,
+          38.551417696478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Zhao",
+        "address": "Russell Blvd",
+        "social_rating": 60,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=866482",
+        "employment": "Intern",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75076519753281,
+          38.55543112335879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "Russell Blvd",
+        "social_rating": 61,
+        "crime_record": "None",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=655668",
+        "employment": "Library Assistant",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75828930806031,
+          38.55761689400808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chris Singh",
+        "address": "Russell Blvd",
+        "social_rating": 70,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=588163",
+        "employment": "Unemployed",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74430376353659,
+          38.54545029854533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chris Singh",
+        "address": "D St",
+        "social_rating": 73,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=565665",
+        "employment": "Unemployed",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74649235812777,
+          38.55639485466904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "Anderson Rd",
+        "social_rating": 61,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=606335",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75407105525619,
+          38.557088764509345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riley Kim",
+        "address": "Olive Dr",
+        "social_rating": 76,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=586653",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74901747769216,
+          38.55351176990509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "F St",
+        "social_rating": 58,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=623376",
+        "employment": "Library Assistant",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75280319825393,
+          38.555135138156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Yu",
+        "address": "Anderson Rd",
+        "social_rating": 63,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=192341",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7417304309427,
+          38.556430970603145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alex Chen",
+        "address": "West Village, UC Davis",
+        "social_rating": 62,
+        "crime_record": "Disorderly Conduct",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=415335",
+        "employment": "Retail Staff",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74953764259894,
+          38.551005417486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamie Lee",
+        "address": "East Covell Blvd",
+        "social_rating": 69,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=127906",
+        "employment": "Intern",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75628453736337,
+          38.54262349943972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "Arlington Blvd",
+        "social_rating": 53,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=214557",
+        "employment": "Unemployed",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74262117544376,
+          38.55819016633899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Zhao",
+        "address": "D St",
+        "social_rating": 77,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=568375",
+        "employment": "Barista",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74939195885517,
+          38.55102805717121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alex Chen",
+        "address": "East Covell Blvd",
+        "social_rating": 58,
+        "crime_record": "Petty Theft",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=798646",
+        "employment": "Retail Staff",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75276134948267,
+          38.55439650490234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riley Kim",
+        "address": "D St",
+        "social_rating": 63,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-05T14:30:00Z",
+        "mugshot_url": "https://thispersondoesnotexist.com/?v=102065",
+        "employment": "Library Assistant",
+        "connections": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74173063074441,
+          38.548982594191195
+        ]
+      }
+    }
+  ]
+}
