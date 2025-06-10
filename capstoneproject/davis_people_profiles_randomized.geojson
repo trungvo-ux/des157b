@@ -3,1002 +3,2102 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "name": "Chris Singh",
-        "address": "F St",
-        "social_rating": 71,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=250836",
-        "employment": "Barista",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.75979841669502,
-          38.559429467539886
+          -121.73276748547147,
+          38.54472977954407
         ]
+      },
+      "properties": {
+        "name": "Taylor Brown",
+        "address": "512 G St, Davis, CA",
+        "social_rating": 61,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:28:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/95.jpg",
+        "employment": "UC Davis Library",
+        "role": "Lab Intern",
+        "status": "Looking for job"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Alex Chen",
-        "address": "Arlington Blvd",
-        "social_rating": 93,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=170238",
-        "employment": "Unemployed",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.75819817015619,
-          38.54008278469059
+          -121.72825391760377,
+          38.53351464325708
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Taylor Zhao",
-        "address": "F St",
-        "social_rating": 52,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=984888",
-        "employment": "Library Assistant",
-        "connections": []
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74627343017288,
-          38.55278162252012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
-        "name": "Riley Kim",
-        "address": "Russell Blvd",
-        "social_rating": 74,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=687554",
-        "employment": "Intern",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74310010147096,
-          38.54633030329542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "D St",
-        "social_rating": 51,
+        "name": "Skyler Brown",
+        "address": "481 Russell Blvd, Davis, CA",
+        "social_rating": 49,
         "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=180646",
-        "employment": "Library Assistant",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74419691172555,
-          38.55889667790024
-        ]
+        "last_seen": "2025-06-09T22:31:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/17.jpg",
+        "employment": "Tech Repair",
+        "role": "Lab Intern",
+        "status": "Graduating in 1 week"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "D St",
-        "social_rating": 63,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=168476",
-        "employment": "Barista",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7473138785892,
-          38.540795458223954
+          -121.74332909089178,
+          38.53077679924035
         ]
+      },
+      "properties": {
+        "name": "Morgan Nguyen",
+        "address": "892 Covell Blvd, Davis, CA",
+        "social_rating": 92,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:54:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/97.jpg",
+        "employment": "Tech Repair",
+        "role": "Research Assistant",
+        "status": "Taking summer courses"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Alex Chen",
-        "address": "East Covell Blvd",
-        "social_rating": 55,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=859265",
-        "employment": "Unemployed",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7595009784996,
-          38.55474010639047
+          -121.75364110229444,
+          38.54061078810438
         ]
+      },
+      "properties": {
+        "name": "Quinn Garcia",
+        "address": "940 Russell Blvd, Davis, CA",
+        "social_rating": 49,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T23:27:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/22.jpg",
+        "employment": "Whole Foods",
+        "role": "Resident Assistant",
+        "status": "Researching thesis"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Casey Nguyen",
-        "address": "Russell Blvd",
-        "social_rating": 94,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=737925",
-        "employment": "Student",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.75263129365108,
-          38.55120918748706
+          -121.74174205331487,
+          38.52997961045297
         ]
-      }
-    },
-    {
-      "type": "Feature",
+      },
       "properties": {
-        "name": "Chris Singh",
-        "address": "West Village, UC Davis",
+        "name": "Jordan Patel",
+        "address": "957 Russell Blvd, Davis, CA",
         "social_rating": 56,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=794389",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74106537047412,
-          38.541181604389664
-        ]
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:43:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/81.jpg",
+        "employment": "UC Davis Library",
+        "role": "TA",
+        "status": "Researching thesis"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7421558626957,
+          38.53955146956266
+        ]
+      },
       "properties": {
-        "name": "Casey Nguyen",
-        "address": "F St",
-        "social_rating": 57,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=251232",
-        "employment": "Library Assistant",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74233738317803,
-          38.551905345699744
-        ]
+        "name": "Jamie Smith",
+        "address": "347 Covell Blvd, Davis, CA",
+        "social_rating": 70,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T23:08:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/95.jpg",
+        "employment": "UC Davis Library",
+        "role": "Grad Student",
+        "status": "Looking for job"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72584714693657,
+          38.521986041713625
+        ]
+      },
       "properties": {
-        "name": "Morgan Yu",
-        "address": "Russell Blvd",
-        "social_rating": 50,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=519881",
-        "employment": "Student",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74485032717833,
-          38.554863958679405
-        ]
+        "name": "Jamie Brown",
+        "address": "128 Chiles Rd, Davis, CA",
+        "social_rating": 37,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T22:56:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/83.jpg",
+        "employment": "Whole Foods",
+        "role": "Lab Intern",
+        "status": "Looking for job"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "D St",
-        "social_rating": 56,
-        "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=338929",
-        "employment": "Unemployed",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74687754244982,
-          38.5492631623143
+          -121.7235393824779,
+          38.5203559194428
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Casey Nguyen",
-        "address": "Arlington Blvd",
-        "social_rating": 58,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=221243",
-        "employment": "Retail Staff",
-        "connections": []
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75093868395628,
-          38.54515257142286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "name": "Riley Kim",
-        "address": "Russell Blvd",
-        "social_rating": 77,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=971249",
-        "employment": "Retail Staff",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74647486608868,
-          38.553180282760756
-        ]
+        "address": "120 Cantrill Dr, Davis, CA",
+        "social_rating": 92,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:02:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/91.jpg",
+        "employment": "Starbucks",
+        "role": "Research Assistant",
+        "status": "Starting internship"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "D St",
-        "social_rating": 87,
-        "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=381980",
-        "employment": "Barista",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74078756672986,
-          38.54317771645908
+          -121.75127163783708,
+          38.538359920755624
         ]
+      },
+      "properties": {
+        "name": "Morgan Martinez",
+        "address": "485 Covell Blvd, Davis, CA",
+        "social_rating": 48,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:33:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/0.jpg",
+        "employment": "Student Housing",
+        "role": "TA",
+        "status": "Researching thesis"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Taylor Zhao",
-        "address": "Olive Dr",
-        "social_rating": 99,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=281678",
-        "employment": "Barista",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.75259867267448,
-          38.546726280815726
+          -121.7486929248874,
+          38.54375090170176
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Riley Kim",
-        "address": "D St",
-        "social_rating": 50,
-        "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=471574",
-        "employment": "Intern",
-        "connections": []
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75604996075157,
-          38.54561948260775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
-        "name": "Riley Kim",
-        "address": "West Village, UC Davis",
-        "social_rating": 74,
-        "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=239000",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74938719292949,
-          38.54266768730981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Alex Chen",
-        "address": "East Covell Blvd",
+        "name": "Quinn Garcia",
+        "address": "674 Cantrill Dr, Davis, CA",
         "social_rating": 97,
         "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=961741",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74601418757298,
-          38.558176359384674
-        ]
+        "last_seen": "2025-06-09T23:17:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/35.jpg",
+        "employment": "Starbucks",
+        "role": "Grad Student",
+        "status": "Starting internship"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75038791689286,
+          38.54069174342319
+        ]
+      },
       "properties": {
-        "name": "Jamie Lee",
-        "address": "Anderson Rd",
-        "social_rating": 77,
+        "name": "Morgan Brown",
+        "address": "292 G St, Davis, CA",
+        "social_rating": 17,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T23:27:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/83.jpg",
+        "employment": "UC Davis Library",
+        "role": "Lab Intern",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73053071617026,
+          38.53618395578512
+        ]
+      },
+      "properties": {
+        "name": "Skyler Brown",
+        "address": "365 Chiles Rd, Davis, CA",
+        "social_rating": 84,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:34:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/85.jpg",
+        "employment": "Whole Foods",
+        "role": "Grad Student",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72494020862631,
+          38.55362554778385
+        ]
+      },
+      "properties": {
+        "name": "Casey Kim",
+        "address": "407 G St, Davis, CA",
+        "social_rating": 33,
         "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=368699",
-        "employment": "Intern",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74641123426198,
-          38.555474264410066
-        ]
+        "last_seen": "2025-06-10T00:06:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/87.jpg",
+        "employment": "Tech Repair",
+        "role": "Research Assistant",
+        "status": "Starting internship"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "Olive Dr",
-        "social_rating": 82,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=838238",
-        "employment": "Intern",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7408119288751,
-          38.55179960399004
+          -121.72514271071341,
+          38.52893311701543
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Jordan Patel",
-        "address": "East Covell Blvd",
-        "social_rating": 68,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=166001",
-        "employment": "Retail Staff",
-        "connections": []
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74502263313833,
-          38.557422516466254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
-        "name": "Jordan Patel",
-        "address": "F St",
-        "social_rating": 72,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=383937",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74496357837943,
-          38.54409646905822
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Jordan Patel",
-        "address": "D St",
-        "social_rating": 81,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=403299",
-        "employment": "Unemployed",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75412509446062,
-          38.55623069880759
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Taylor Zhao",
-        "address": "Anderson Rd",
-        "social_rating": 80,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=912212",
-        "employment": "Intern",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75788494298857,
-          38.5561308540651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Taylor Zhao",
-        "address": "Arlington Blvd",
-        "social_rating": 54,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=604749",
-        "employment": "Retail Staff",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75939996133066,
-          38.5525804229005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "Anderson Rd",
-        "social_rating": 54,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=543358",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74133516557877,
-          38.55045304138659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "Anderson Rd",
-        "social_rating": 63,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=633809",
-        "employment": "Unemployed",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75654939878488,
-          38.558419141457634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Riley Kim",
-        "address": "Arlington Blvd",
-        "social_rating": 55,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=105091",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75691546176245,
-          38.549486049006816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Casey Nguyen",
-        "address": "East Covell Blvd",
-        "social_rating": 73,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=782680",
-        "employment": "Student",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74630397989021,
-          38.541505738354495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "Arlington Blvd",
-        "social_rating": 95,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=134991",
-        "employment": "Unemployed",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74517638398196,
-          38.54615755390218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Alex Chen",
-        "address": "West Village, UC Davis",
-        "social_rating": 83,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=288187",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74296771573106,
-          38.54513224348164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Chris Singh",
-        "address": "Anderson Rd",
+        "name": "Casey Johnson",
+        "address": "327 Covell Blvd, Davis, CA",
         "social_rating": 63,
         "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=359010",
-        "employment": "Student",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74004601507397,
-          38.54903964357018
-        ]
+        "last_seen": "2025-06-09T23:31:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/15.jpg",
+        "employment": "UC Davis Library",
+        "role": "Resident Assistant",
+        "status": "Starting internship"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Casey Nguyen",
-        "address": "West Village, UC Davis",
-        "social_rating": 59,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=817021",
-        "employment": "Intern",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74722326740665,
-          38.55578275482165
+          -121.72222796064,
+          38.5433429847897
         ]
+      },
+      "properties": {
+        "name": "Skyler Smith",
+        "address": "987 Cantrill Dr, Davis, CA",
+        "social_rating": 19,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T22:25:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/67.jpg",
+        "employment": "Whole Foods",
+        "role": "Resident Assistant",
+        "status": "Graduating in 1 week"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Chris Singh",
-        "address": "Olive Dr",
-        "social_rating": 96,
-        "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=192424",
-        "employment": "Barista",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74521031047507,
-          38.5558417635707
+          -121.75198813636818,
+          38.52549461036693
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Chris Singh",
-        "address": "Anderson Rd",
-        "social_rating": 90,
-        "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=510056",
-        "employment": "Barista",
-        "connections": []
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74886498169306,
-          38.551417696478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
-        "name": "Taylor Zhao",
-        "address": "Russell Blvd",
-        "social_rating": 60,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=866482",
-        "employment": "Intern",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75076519753281,
-          38.55543112335879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Casey Nguyen",
-        "address": "Russell Blvd",
-        "social_rating": 61,
-        "crime_record": "None",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=655668",
-        "employment": "Library Assistant",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75828930806031,
-          38.55761689400808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Chris Singh",
-        "address": "Russell Blvd",
-        "social_rating": 70,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=588163",
-        "employment": "Unemployed",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74430376353659,
-          38.54545029854533
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Chris Singh",
-        "address": "D St",
-        "social_rating": 73,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=565665",
-        "employment": "Unemployed",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74649235812777,
-          38.55639485466904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Casey Nguyen",
-        "address": "Anderson Rd",
-        "social_rating": 61,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=606335",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75407105525619,
-          38.557088764509345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Riley Kim",
-        "address": "Olive Dr",
-        "social_rating": 76,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=586653",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74901747769216,
-          38.55351176990509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "F St",
-        "social_rating": 58,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=623376",
-        "employment": "Library Assistant",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75280319825393,
-          38.555135138156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Morgan Yu",
-        "address": "Anderson Rd",
-        "social_rating": 63,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=192341",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7417304309427,
-          38.556430970603145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Alex Chen",
-        "address": "West Village, UC Davis",
+        "name": "Morgan Martinez",
+        "address": "155 G St, Davis, CA",
         "social_rating": 62,
-        "crime_record": "Disorderly Conduct",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=415335",
-        "employment": "Retail Staff",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74953764259894,
-          38.551005417486
-        ]
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:24:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/99.jpg",
+        "employment": "Tech Repair",
+        "role": "Research Assistant",
+        "status": "Starting internship"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7474634371297,
+          38.559465614907985
+        ]
+      },
+      "properties": {
+        "name": "Jamie Nguyen",
+        "address": "440 Cantrill Dr, Davis, CA",
+        "social_rating": 17,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:21:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/62.jpg",
+        "employment": "UC Davis Library",
+        "role": "Research Assistant",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74386426078408,
+          38.545339501628106
+        ]
+      },
       "properties": {
         "name": "Jamie Lee",
-        "address": "East Covell Blvd",
-        "social_rating": 69,
-        "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=127906",
-        "employment": "Intern",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75628453736337,
-          38.54262349943972
-        ]
+        "address": "729 Chiles Rd, Davis, CA",
+        "social_rating": 71,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-10T00:18:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/1.jpg",
+        "employment": "Starbucks",
+        "role": "Resident Assistant",
+        "status": "Looking for job"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Casey Nguyen",
-        "address": "Arlington Blvd",
-        "social_rating": 53,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=214557",
-        "employment": "Unemployed",
-        "connections": []
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74262117544376,
-          38.55819016633899
+          -121.73493252285313,
+          38.54706992566708
         ]
+      },
+      "properties": {
+        "name": "Casey Kim",
+        "address": "295 Russell Blvd, Davis, CA",
+        "social_rating": 41,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T22:50:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/49.jpg",
+        "employment": "UC Davis Library",
+        "role": "Grad Student",
+        "status": "Looking for job"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75817126593047,
+          38.52261148089881
+        ]
+      },
       "properties": {
-        "name": "Taylor Zhao",
-        "address": "D St",
+        "name": "Quinn Davis",
+        "address": "413 G St, Davis, CA",
+        "social_rating": 47,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T22:45:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/55.jpg",
+        "employment": "Student Housing",
+        "role": "Resident Assistant",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75340465964433,
+          38.55000462329043
+        ]
+      },
+      "properties": {
+        "name": "Taylor Garcia",
+        "address": "601 Covell Blvd, Davis, CA",
+        "social_rating": 61,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:49:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/93.jpg",
+        "employment": "Whole Foods",
+        "role": "Lab Intern",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73155559639616,
+          38.524926479270036
+        ]
+      },
+      "properties": {
+        "name": "Alex Davis",
+        "address": "616 G St, Davis, CA",
+        "social_rating": 14,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T22:26:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/76.jpg",
+        "employment": "UC Davis Library",
+        "role": "Resident Assistant",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75536840694642,
+          38.52192940225892
+        ]
+      },
+      "properties": {
+        "name": "Alex Johnson",
+        "address": "769 Russell Blvd, Davis, CA",
+        "social_rating": 66,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-10T00:03:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/26.jpg",
+        "employment": "Student Housing",
+        "role": "Grad Student",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73918763063251,
+          38.524039193887255
+        ]
+      },
+      "properties": {
+        "name": "Alex Brown",
+        "address": "530 Cantrill Dr, Davis, CA",
+        "social_rating": 89,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:49:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/36.jpg",
+        "employment": "Whole Foods",
+        "role": "TA",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72888164333611,
+          38.54436007237427
+        ]
+      },
+      "properties": {
+        "name": "Jamie Johnson",
+        "address": "609 F St, Davis, CA",
+        "social_rating": 76,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:33:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/70.jpg",
+        "employment": "Tech Repair",
+        "role": "Grad Student",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7598904800377,
+          38.53322414464787
+        ]
+      },
+      "properties": {
+        "name": "Skyler Patel",
+        "address": "804 Oak Ave, Davis, CA",
+        "social_rating": 95,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T22:22:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/11.jpg",
+        "employment": "Starbucks",
+        "role": "Resident Assistant",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74976431588996,
+          38.52405161914372
+        ]
+      },
+      "properties": {
+        "name": "Quinn Johnson",
+        "address": "840 Lillard Dr, Davis, CA",
+        "social_rating": 39,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T23:41:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/22.jpg",
+        "employment": "UC Davis Library",
+        "role": "TA",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7304583921683,
+          38.53250828427851
+        ]
+      },
+      "properties": {
+        "name": "Alex Brown",
+        "address": "468 Cantrill Dr, Davis, CA",
+        "social_rating": 22,
+        "crime_record": "None",
+        "last_seen": "2025-06-10T00:17:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/45.jpg",
+        "employment": "Whole Foods",
+        "role": "Lab Intern",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72740142841853,
+          38.5237180526175
+        ]
+      },
+      "properties": {
+        "name": "Skyler Davis",
+        "address": "374 Lillard Dr, Davis, CA",
+        "social_rating": 33,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:27:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/88.jpg",
+        "employment": "Tech Repair",
+        "role": "TA",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73215320505905,
+          38.524522262255104
+        ]
+      },
+      "properties": {
+        "name": "Skyler Martinez",
+        "address": "764 G St, Davis, CA",
+        "social_rating": 17,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-10T00:05:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/23.jpg",
+        "employment": "Tech Repair",
+        "role": "Resident Assistant",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72549696901903,
+          38.54445433677102
+        ]
+      },
+      "properties": {
+        "name": "Reese Martinez",
+        "address": "897 Covell Blvd, Davis, CA",
+        "social_rating": 26,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T22:21:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/5.jpg",
+        "employment": "Tech Repair",
+        "role": "College Student at UC Davis",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72526670912565,
+          38.52049440851944
+        ]
+      },
+      "properties": {
+        "name": "Jamie Brown",
+        "address": "770 Covell Blvd, Davis, CA",
         "social_rating": 77,
-        "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=568375",
-        "employment": "Barista",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74939195885517,
-          38.55102805717121
-        ]
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:46:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/55.jpg",
+        "employment": "Student Housing",
+        "role": "Research Assistant",
+        "status": "Starting internship"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74460493530373,
+          38.547051822734296
+        ]
+      },
       "properties": {
-        "name": "Alex Chen",
-        "address": "East Covell Blvd",
-        "social_rating": 58,
-        "crime_record": "Petty Theft",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=798646",
-        "employment": "Retail Staff",
-        "connections": []
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75276134948267,
-          38.55439650490234
-        ]
+        "name": "Jordan Nguyen",
+        "address": "454 Cantrill Dr, Davis, CA",
+        "social_rating": 81,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-10T00:12:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/63.jpg",
+        "employment": "Starbucks",
+        "role": "Lab Intern",
+        "status": "Looking for job"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74676420629913,
+          38.532825352621344
+        ]
+      },
+      "properties": {
+        "name": "Taylor Johnson",
+        "address": "869 Oak Ave, Davis, CA",
+        "social_rating": 45,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:14:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/30.jpg",
+        "employment": "Whole Foods",
+        "role": "Resident Assistant",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72573643103287,
+          38.53792394342661
+        ]
+      },
+      "properties": {
+        "name": "Jamie Nguyen",
+        "address": "554 East 8th St, Davis, CA",
+        "social_rating": 67,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-10T00:03:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/51.jpg",
+        "employment": "Tech Repair",
+        "role": "Lab Intern",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75636417812353,
+          38.520006788619135
+        ]
+      },
+      "properties": {
+        "name": "Riley Smith",
+        "address": "670 Pole Line Rd, Davis, CA",
+        "social_rating": 87,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:57:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/83.jpg",
+        "employment": "UC Davis Library",
+        "role": "Resident Assistant",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72622730241582,
+          38.55266354746309
+        ]
+      },
+      "properties": {
+        "name": "Skyler Garcia",
+        "address": "472 Russell Blvd, Davis, CA",
+        "social_rating": 52,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:40:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/91.jpg",
+        "employment": "Student Housing",
+        "role": "Resident Assistant",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74634571541692,
+          38.528869884312805
+        ]
+      },
+      "properties": {
+        "name": "Skyler Johnson",
+        "address": "199 Cantrill Dr, Davis, CA",
+        "social_rating": 91,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T23:08:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/21.jpg",
+        "employment": "Student Housing",
+        "role": "Grad Student",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74363156971127,
+          38.54970043561505
+        ]
+      },
+      "properties": {
+        "name": "Skyler Lee",
+        "address": "941 Lillard Dr, Davis, CA",
+        "social_rating": 42,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T23:53:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/58.jpg",
+        "employment": "Whole Foods",
+        "role": "College Student at UC Davis",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73467038129643,
+          38.52186001447637
+        ]
+      },
+      "properties": {
+        "name": "Jordan Garcia",
+        "address": "210 Chiles Rd, Davis, CA",
+        "social_rating": 96,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-10T00:03:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/63.jpg",
+        "employment": "Tech Repair",
+        "role": "TA",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74268758480584,
+          38.54212905315617
+        ]
+      },
+      "properties": {
+        "name": "Alex Kim",
+        "address": "853 Russell Blvd, Davis, CA",
+        "social_rating": 84,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T22:20:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/93.jpg",
+        "employment": "Student Housing",
+        "role": "Research Assistant",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72469216545765,
+          38.54402184087222
+        ]
+      },
+      "properties": {
+        "name": "Taylor Johnson",
+        "address": "496 Cantrill Dr, Davis, CA",
+        "social_rating": 74,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T23:25:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/50.jpg",
+        "employment": "Student Housing",
+        "role": "Lab Intern",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73589902201294,
+          38.52552720022581
+        ]
+      },
+      "properties": {
+        "name": "Casey Brown",
+        "address": "563 G St, Davis, CA",
+        "social_rating": 75,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T22:31:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/25.jpg",
+        "employment": "Student Housing",
+        "role": "Grad Student",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72315232942331,
+          38.54746445189276
+        ]
+      },
+      "properties": {
+        "name": "Jordan Davis",
+        "address": "831 5th St, Davis, CA",
+        "social_rating": 26,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:14:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/97.jpg",
+        "employment": "Student Housing",
+        "role": "Lab Intern",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7333137104779,
+          38.54282552777012
+        ]
+      },
+      "properties": {
+        "name": "Casey Kim",
+        "address": "591 East 8th St, Davis, CA",
+        "social_rating": 63,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T23:42:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/3.jpg",
+        "employment": "Tech Repair",
+        "role": "College Student at UC Davis",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74932086922222,
+          38.522264190971825
+        ]
+      },
+      "properties": {
+        "name": "Riley Lee",
+        "address": "154 Cantrill Dr, Davis, CA",
+        "social_rating": 30,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T22:51:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/26.jpg",
+        "employment": "UC Davis Library",
+        "role": "Research Assistant",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72527858505381,
+          38.52409920025352
+        ]
+      },
+      "properties": {
+        "name": "Quinn Smith",
+        "address": "467 Oak Ave, Davis, CA",
+        "social_rating": 81,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T22:43:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/88.jpg",
+        "employment": "Student Housing",
+        "role": "TA",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72096709111776,
+          38.558268078800474
+        ]
+      },
+      "properties": {
+        "name": "Alex Martinez",
+        "address": "496 Chiles Rd, Davis, CA",
+        "social_rating": 50,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-10T00:12:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/79.jpg",
+        "employment": "Starbucks",
+        "role": "Lab Intern",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7452903551593,
+          38.548381818129904
+        ]
+      },
+      "properties": {
+        "name": "Skyler Patel",
+        "address": "748 Lillard Dr, Davis, CA",
+        "social_rating": 85,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:44:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/57.jpg",
+        "employment": "Student Housing",
+        "role": "Research Assistant",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75522584754907,
+          38.54940317944105
+        ]
+      },
+      "properties": {
+        "name": "Taylor Johnson",
+        "address": "291 G St, Davis, CA",
+        "social_rating": 15,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T23:43:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/74.jpg",
+        "employment": "Student Housing",
+        "role": "Grad Student",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75380777208807,
+          38.54838757185265
+        ]
+      },
+      "properties": {
+        "name": "Morgan Smith",
+        "address": "438 Oak Ave, Davis, CA",
+        "social_rating": 29,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T23:02:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/62.jpg",
+        "employment": "Starbucks",
+        "role": "Lab Intern",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7472856397851,
+          38.55136125794282
+        ]
+      },
+      "properties": {
+        "name": "Reese Kim",
+        "address": "466 Anderson Rd, Davis, CA",
+        "social_rating": 38,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:12:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/69.jpg",
+        "employment": "Starbucks",
+        "role": "Resident Assistant",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75146584759254,
+          38.52884792324406
+        ]
+      },
+      "properties": {
+        "name": "Quinn Martinez",
+        "address": "194 Covell Blvd, Davis, CA",
+        "social_rating": 52,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T23:32:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/71.jpg",
+        "employment": "UC Davis Library",
+        "role": "Research Assistant",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72382014166048,
+          38.537826689851386
+        ]
+      },
+      "properties": {
+        "name": "Alex Johnson",
+        "address": "784 Covell Blvd, Davis, CA",
+        "social_rating": 88,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T23:47:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/14.jpg",
+        "employment": "Starbucks",
+        "role": "Lab Intern",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72354656293486,
+          38.53131315977117
+        ]
+      },
+      "properties": {
+        "name": "Riley Brown",
+        "address": "653 Lillard Dr, Davis, CA",
+        "social_rating": 57,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:36:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/37.jpg",
+        "employment": "Student Housing",
+        "role": "TA",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75330420763146,
+          38.55792847278594
+        ]
+      },
+      "properties": {
+        "name": "Jordan Garcia",
+        "address": "626 Anderson Rd, Davis, CA",
+        "social_rating": 78,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-10T00:18:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/13.jpg",
+        "employment": "Starbucks",
+        "role": "Research Assistant",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73034499860549,
+          38.55514548926837
+        ]
+      },
+      "properties": {
+        "name": "Jordan Kim",
+        "address": "948 Lillard Dr, Davis, CA",
+        "social_rating": 65,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T22:43:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/4.jpg",
+        "employment": "Whole Foods",
+        "role": "College Student at UC Davis",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73767663178728,
+          38.55176859147903
+        ]
+      },
+      "properties": {
+        "name": "Jamie Johnson",
+        "address": "155 G St, Davis, CA",
+        "social_rating": 83,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T22:22:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/80.jpg",
+        "employment": "UC Davis Library",
+        "role": "TA",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75526776953492,
+          38.535580074689776
+        ]
+      },
+      "properties": {
+        "name": "Riley Martinez",
+        "address": "423 Russell Blvd, Davis, CA",
+        "social_rating": 10,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-10T00:10:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/64.jpg",
+        "employment": "Student Housing",
+        "role": "College Student at UC Davis",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75653979114249,
+          38.532054028393794
+        ]
+      },
+      "properties": {
+        "name": "Jamie Brown",
+        "address": "905 Cantrill Dr, Davis, CA",
+        "social_rating": 66,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T23:28:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/17.jpg",
+        "employment": "Starbucks",
+        "role": "TA",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73290843817979,
+          38.525763021498335
+        ]
+      },
       "properties": {
         "name": "Riley Kim",
-        "address": "D St",
-        "social_rating": 63,
+        "address": "402 Cantrill Dr, Davis, CA",
+        "social_rating": 92,
         "crime_record": "Trespassing",
-        "last_seen": "2025-06-05T14:30:00Z",
-        "mugshot_url": "https://thispersondoesnotexist.com/?v=102065",
-        "employment": "Library Assistant",
-        "connections": []
-      },
+        "last_seen": "2025-06-10T00:17:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/5.jpg",
+        "employment": "Student Housing",
+        "role": "Resident Assistant",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74173063074441,
-          38.548982594191195
+          -121.72212082443085,
+          38.541486081942175
         ]
+      },
+      "properties": {
+        "name": "Alex Davis",
+        "address": "710 Chiles Rd, Davis, CA",
+        "social_rating": 49,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T22:43:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/20.jpg",
+        "employment": "UC Davis Library",
+        "role": "Research Assistant",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75274568060905,
+          38.52777304861385
+        ]
+      },
+      "properties": {
+        "name": "Taylor Patel",
+        "address": "731 5th St, Davis, CA",
+        "social_rating": 82,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T22:30:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/37.jpg",
+        "employment": "Student Housing",
+        "role": "TA",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74051238359465,
+          38.549023570293365
+        ]
+      },
+      "properties": {
+        "name": "Jamie Brown",
+        "address": "200 F St, Davis, CA",
+        "social_rating": 52,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-10T00:02:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/24.jpg",
+        "employment": "Whole Foods",
+        "role": "College Student at UC Davis",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74777298042373,
+          38.54465369721038
+        ]
+      },
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "561 Covell Blvd, Davis, CA",
+        "social_rating": 84,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:06:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/21.jpg",
+        "employment": "Student Housing",
+        "role": "Grad Student",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7343664582264,
+          38.54848796508903
+        ]
+      },
+      "properties": {
+        "name": "Alex Garcia",
+        "address": "352 F St, Davis, CA",
+        "social_rating": 45,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-10T00:01:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/45.jpg",
+        "employment": "UC Davis Library",
+        "role": "TA",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73573489335716,
+          38.52703080643581
+        ]
+      },
+      "properties": {
+        "name": "Morgan Nguyen",
+        "address": "664 Anderson Rd, Davis, CA",
+        "social_rating": 45,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T22:24:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/93.jpg",
+        "employment": "Student Housing",
+        "role": "Research Assistant",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72749430400673,
+          38.54526505977845
+        ]
+      },
+      "properties": {
+        "name": "Jamie Smith",
+        "address": "969 Pole Line Rd, Davis, CA",
+        "social_rating": 84,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T22:40:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/69.jpg",
+        "employment": "Student Housing",
+        "role": "Research Assistant",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75106773409502,
+          38.53463274520412
+        ]
+      },
+      "properties": {
+        "name": "Quinn Nguyen",
+        "address": "769 G St, Davis, CA",
+        "social_rating": 85,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-10T00:01:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/50.jpg",
+        "employment": "Tech Repair",
+        "role": "Resident Assistant",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72143998926683,
+          38.52955523218154
+        ]
+      },
+      "properties": {
+        "name": "Casey Kim",
+        "address": "110 Cantrill Dr, Davis, CA",
+        "social_rating": 88,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T22:42:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/22.jpg",
+        "employment": "Student Housing",
+        "role": "Research Assistant",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7406598633709,
+          38.54943679235339
+        ]
+      },
+      "properties": {
+        "name": "Reese Davis",
+        "address": "775 G St, Davis, CA",
+        "social_rating": 55,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:50:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/47.jpg",
+        "employment": "Tech Repair",
+        "role": "Research Assistant",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72834158171378,
+          38.54071540919176
+        ]
+      },
+      "properties": {
+        "name": "Jordan Smith",
+        "address": "784 F St, Davis, CA",
+        "social_rating": 59,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T22:21:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/13.jpg",
+        "employment": "Tech Repair",
+        "role": "College Student at UC Davis",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73822599751647,
+          38.53053264277536
+        ]
+      },
+      "properties": {
+        "name": "Quinn Brown",
+        "address": "954 Lillard Dr, Davis, CA",
+        "social_rating": 32,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T22:55:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/66.jpg",
+        "employment": "Tech Repair",
+        "role": "Grad Student",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72731052939065,
+          38.53623368810204
+        ]
+      },
+      "properties": {
+        "name": "Morgan Martinez",
+        "address": "328 Pole Line Rd, Davis, CA",
+        "social_rating": 54,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-09T22:37:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/56.jpg",
+        "employment": "Tech Repair",
+        "role": "Resident Assistant",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75153931583456,
+          38.54573908009553
+        ]
+      },
+      "properties": {
+        "name": "Taylor Patel",
+        "address": "178 Pole Line Rd, Davis, CA",
+        "social_rating": 33,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:32:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/53.jpg",
+        "employment": "Student Housing",
+        "role": "Lab Intern",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75157184195793,
+          38.539152585708806
+        ]
+      },
+      "properties": {
+        "name": "Casey Johnson",
+        "address": "593 Cantrill Dr, Davis, CA",
+        "social_rating": 30,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-10T00:16:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/17.jpg",
+        "employment": "Whole Foods",
+        "role": "College Student at UC Davis",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74966961415933,
+          38.52223648016642
+        ]
+      },
+      "properties": {
+        "name": "Quinn Smith",
+        "address": "686 G St, Davis, CA",
+        "social_rating": 33,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T23:27:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/10.jpg",
+        "employment": "Student Housing",
+        "role": "Resident Assistant",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7531773286404,
+          38.55469209595968
+        ]
+      },
+      "properties": {
+        "name": "Jordan Nguyen",
+        "address": "721 Oak Ave, Davis, CA",
+        "social_rating": 62,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-10T00:00:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/21.jpg",
+        "employment": "Student Housing",
+        "role": "Research Assistant",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74487154591516,
+          38.52275371588165
+        ]
+      },
+      "properties": {
+        "name": "Casey Nguyen",
+        "address": "710 East 8th St, Davis, CA",
+        "social_rating": 26,
+        "crime_record": "None",
+        "last_seen": "2025-06-10T00:16:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/19.jpg",
+        "employment": "Whole Foods",
+        "role": "Resident Assistant",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73600744812516,
+          38.5560643287345
+        ]
+      },
+      "properties": {
+        "name": "Reese Johnson",
+        "address": "281 Oak Ave, Davis, CA",
+        "social_rating": 78,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T22:42:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/77.jpg",
+        "employment": "Starbucks",
+        "role": "College Student at UC Davis",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73911823081353,
+          38.54596926940426
+        ]
+      },
+      "properties": {
+        "name": "Quinn Smith",
+        "address": "893 Cantrill Dr, Davis, CA",
+        "social_rating": 57,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T22:49:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/98.jpg",
+        "employment": "Student Housing",
+        "role": "TA",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72651237943866,
+          38.5563143550639
+        ]
+      },
+      "properties": {
+        "name": "Riley Garcia",
+        "address": "703 Lillard Dr, Davis, CA",
+        "social_rating": 83,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:24:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/10.jpg",
+        "employment": "Whole Foods",
+        "role": "Grad Student",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75243915945128,
+          38.53634586818749
+        ]
+      },
+      "properties": {
+        "name": "Morgan Davis",
+        "address": "997 Pole Line Rd, Davis, CA",
+        "social_rating": 100,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:05:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/48.jpg",
+        "employment": "Student Housing",
+        "role": "College Student at UC Davis",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74295713643683,
+          38.52426332865798
+        ]
+      },
+      "properties": {
+        "name": "Jordan Garcia",
+        "address": "518 Covell Blvd, Davis, CA",
+        "social_rating": 84,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T23:45:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/78.jpg",
+        "employment": "Student Housing",
+        "role": "TA",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72864846332145,
+          38.536529126331835
+        ]
+      },
+      "properties": {
+        "name": "Morgan Martinez",
+        "address": "873 F St, Davis, CA",
+        "social_rating": 71,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:31:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/39.jpg",
+        "employment": "Student Housing",
+        "role": "Resident Assistant",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7544772592619,
+          38.53592519007199
+        ]
+      },
+      "properties": {
+        "name": "Reese Garcia",
+        "address": "892 Lillard Dr, Davis, CA",
+        "social_rating": 94,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T22:43:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/27.jpg",
+        "employment": "Whole Foods",
+        "role": "TA",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73543898531882,
+          38.552034149334006
+        ]
+      },
+      "properties": {
+        "name": "Quinn Martinez",
+        "address": "904 Covell Blvd, Davis, CA",
+        "social_rating": 97,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:58:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/18.jpg",
+        "employment": "Tech Repair",
+        "role": "Lab Intern",
+        "status": "Graduating in 1 week"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75112919021521,
+          38.522563218254774
+        ]
+      },
+      "properties": {
+        "name": "Skyler Davis",
+        "address": "545 Anderson Rd, Davis, CA",
+        "social_rating": 20,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-10T00:14:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/91.jpg",
+        "employment": "Tech Repair",
+        "role": "TA",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74244111805835,
+          38.54561165258121
+        ]
+      },
+      "properties": {
+        "name": "Reese Smith",
+        "address": "892 G St, Davis, CA",
+        "social_rating": 35,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-09T23:42:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/78.jpg",
+        "employment": "Whole Foods",
+        "role": "College Student at UC Davis",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72097416396217,
+          38.546200764775364
+        ]
+      },
+      "properties": {
+        "name": "Taylor Smith",
+        "address": "468 F St, Davis, CA",
+        "social_rating": 21,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T22:39:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/75.jpg",
+        "employment": "Tech Repair",
+        "role": "Grad Student",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72323290315563,
+          38.54814487697739
+        ]
+      },
+      "properties": {
+        "name": "Jordan Kim",
+        "address": "115 Lillard Dr, Davis, CA",
+        "social_rating": 80,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T22:46:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/35.jpg",
+        "employment": "Student Housing",
+        "role": "Resident Assistant",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73700373113016,
+          38.557188553632486
+        ]
+      },
+      "properties": {
+        "name": "Jordan Davis",
+        "address": "299 Oak Ave, Davis, CA",
+        "social_rating": 43,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:26:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/64.jpg",
+        "employment": "Student Housing",
+        "role": "College Student at UC Davis",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72495547815028,
+          38.55826837398341
+        ]
+      },
+      "properties": {
+        "name": "Morgan Garcia",
+        "address": "219 Pole Line Rd, Davis, CA",
+        "social_rating": 83,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T22:50:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/98.jpg",
+        "employment": "Tech Repair",
+        "role": "TA",
+        "status": "Researching thesis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72413904709016,
+          38.54726378693006
+        ]
+      },
+      "properties": {
+        "name": "Jordan Garcia",
+        "address": "894 Oak Ave, Davis, CA",
+        "social_rating": 13,
+        "crime_record": "Disorderly conduct",
+        "last_seen": "2025-06-10T00:04:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/86.jpg",
+        "employment": "UC Davis Library",
+        "role": "College Student at UC Davis",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75961107233142,
+          38.54066016868819
+        ]
+      },
+      "properties": {
+        "name": "Jordan Garcia",
+        "address": "522 Covell Blvd, Davis, CA",
+        "social_rating": 43,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:42:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/70.jpg",
+        "employment": "Starbucks",
+        "role": "TA",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73705149523344,
+          38.528742645351386
+        ]
+      },
+      "properties": {
+        "name": "Taylor Nguyen",
+        "address": "421 Covell Blvd, Davis, CA",
+        "social_rating": 33,
+        "crime_record": "Minor theft",
+        "last_seen": "2025-06-09T23:15:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/26.jpg",
+        "employment": "Whole Foods",
+        "role": "Research Assistant",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74575890506625,
+          38.55345338839847
+        ]
+      },
+      "properties": {
+        "name": "Jordan Patel",
+        "address": "954 F St, Davis, CA",
+        "social_rating": 23,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T22:21:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/men/97.jpg",
+        "employment": "Starbucks",
+        "role": "Lab Intern",
+        "status": "Taking summer courses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74738332376111,
+          38.534847861415344
+        ]
+      },
+      "properties": {
+        "name": "Quinn Smith",
+        "address": "968 Oak Ave, Davis, CA",
+        "social_rating": 83,
+        "crime_record": "Trespassing",
+        "last_seen": "2025-06-09T23:16:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/28.jpg",
+        "employment": "Whole Foods",
+        "role": "Resident Assistant",
+        "status": "Starting internship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74086719693551,
+          38.551970796711196
+        ]
+      },
+      "properties": {
+        "name": "Reese Lee",
+        "address": "155 Pole Line Rd, Davis, CA",
+        "social_rating": 79,
+        "crime_record": "None",
+        "last_seen": "2025-06-09T23:14:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/15.jpg",
+        "employment": "UC Davis Library",
+        "role": "TA",
+        "status": "Looking for job"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7330358775822,
+          38.52033674419278
+        ]
+      },
+      "properties": {
+        "name": "Quinn Nguyen",
+        "address": "423 Lillard Dr, Davis, CA",
+        "social_rating": 58,
+        "crime_record": "Underage drinking",
+        "last_seen": "2025-06-10T00:06:51",
+        "mugshot_url": "https://randomuser.me/api/portraits/women/23.jpg",
+        "employment": "UC Davis Library",
+        "role": "Grad Student",
+        "status": "Researching thesis"
       }
     }
   ]

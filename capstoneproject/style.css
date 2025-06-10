@@ -16,22 +16,10 @@ body, html {
 
 .top-search {
   position: absolute;
-  top: 20px;
-  left: 50%;
   transform: translateX(-50%);
-  width: 420px;
+  width: 360px;
   z-index: 10;
   backdrop-filter: blur(8px);
-}
-
-.top-search input {
-  width: 100%;
-  padding: 14px 18px;
-  border-radius: 8px;
-  font-size: 15px;
-  border: none;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  background: rgba(255, 255, 255, 0.95);
 }
 
 .sidebar {
@@ -246,16 +234,15 @@ body, html {
 
 .top-search {
   position: absolute;
-  top: 20px;
-  left: 15.5%;
+  top: 10px;
+  left: 15%;
   transform: translateX(-50%);
   width: 360px;
-  z-index: 10;
   backdrop-filter: blur(8px);
 }
 
 .top-search input {
-  width: 100%;
+  width: 360px;
   padding: 14px 18px;
   border-radius: 14px;
   font-size: 15px;
